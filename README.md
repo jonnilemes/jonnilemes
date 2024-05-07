@@ -6,9 +6,9 @@
 - 😄 Em busca constante no conhecimento TECH
 - ⚡ Amante da programação (Backend)
 
-  <div>
-  <a href="https://github.com/jonnilemes">
-  <lag height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnilemes&show_icons=true"/>
-  <lag height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnilemes&show_icons=true&theme=dracula"/>
+<div>
+<a href="https://github.com/jonnilemes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnilemes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnilemes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
