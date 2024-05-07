@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Jonatas Lemes👋
 
-<!--
-**jonnilemes/jonnilemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atuando como freelancer em Backend e Banco de Dados
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 😄 Em busca constante no conhecimento TECH
+- ⚡ Amante da programação (Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+  <a href="https://github.com/jonnilemes">
+  <lag height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnilemes&show_icons=true"/>
+  <lag height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnilemes&show_icons=true&theme=dracula"/>
+</div>
+
